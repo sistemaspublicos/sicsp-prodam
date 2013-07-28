@@ -1,9 +1,7 @@
 sicsp-prodam
 ============
 
-Sistema eSIC da Prefeitura de São Paulo
-
-[http://esic.prefeitura.sp.gov.br/](site do esic)
+[Sistema eSIC da Prefeitura de São Paulo](http://esic.prefeitura.sp.gov.br/)
 
 Este repositório é um espaço da sociedade cívil para registrar e acompanhar o desenvolvimento de bugs e sugestões para o sistema de e-sic da prefeitura de São Paulo, desenvolvido pela PRODAM.
 
